@@ -2,11 +2,14 @@
 
 **Software Developer**
 
-Focused on Python development, machine learning, and simulation. I work on projects that connect data, models, and practical software systems.
+Focused on backend development, machine learning, and simulation. I work on projects that connect data, models, and practical software systems.
 
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
@@ -19,6 +22,7 @@ Focused on Python development, machine learning, and simulation. I work on proje
 |:---|:---|:---|
 | [Baseball World Model](https://github.com/lee1june61/Baseball-World-Model) | Human motion modeling and 3D bat–ball contact simulation | Python, MuJoCo, NumPy, SciPy |
 | [GC-GISMo](https://github.com/lee1june61/CS471-Project) | Goal-conditioned ingredient substitution using graph learning · Team project | Python, PyTorch |
+| [Splace](https://github.com/ukth/splace-backend) | Backend API · **Sole backend developer; implemented the entire backend** | JavaScript, Node.js, Express, GraphQL, Prisma |
 | [SafeHome](https://github.com/lee1june61/cs350_safehome_team1) | Home security simulation with synchronized control and monitoring interfaces · Team project | Python, Tkinter, SQLite |
 
 [View all repositories →](https://github.com/lee1june61?tab=repositories)
